@@ -84,7 +84,8 @@ analytics:
 author:
   name             : "Mai Su"
   avatar           : "profile.png"
-  bio              : "Master student in Northeastern University"
+  #bio              : "Master student in Northeastern University" 
+  bio              : "Ph.D. candidate at Peking University"
   location         :
   employer         :
   pubmed           :
